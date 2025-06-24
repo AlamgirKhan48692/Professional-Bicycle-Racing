@@ -1,3 +1,5 @@
+Professional-Bicycle-Racing
+
 📊 Scatterplot Graph: Doping in Professional Bicycle Racing
 This project visualizes doping allegations in professional bicycle racing using a D3.js-powered scatterplot. It is built to fulfill the user stories defined in the freeCodeCamp Scatterplot Graph Certification Project.
 
